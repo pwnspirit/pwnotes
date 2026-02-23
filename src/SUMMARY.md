@@ -5,6 +5,12 @@
 # TryHackMe
 - [The Sticker Shop](./tryhackme/The-Sticker-Shop.md)
 
+
+# Eschaton CTF 2026 Quals
+- [Now You See me](./eschaton2026/web/nowyouseeme.md)
+- [Key 1](./eschaton2026/rev/key-1.md)
+- [Intercepted Transmission](./eschaton2026/crypto/Transmission.md)
+
 # Hackerone CTF
 - [Get Started](./hacker101/get-started/readme.md)
 - [Micro CMSv1](./hacker101/Micro-CMSv1/readme.md)
@@ -32,7 +38,6 @@
   - [HTTP Directory Indexing](./rootme/WEB_Server/HTTP-Directory-indexing.md)
   - [HTTP Improper Redirection](./rootme/WEB_Server/HTTP-improper-redirect.md)
   - [PHP Command Injection](./rootme/WEB_Server/php-command-injection.md)
-  - [HTTP - POST](./rootme/WEB_Server/HTTP-POST.md)
 
 - [Network](./rootme/Network/readme.md)
   - [FTP - authentication](./rootme/Network/FTP_authentication.md)
