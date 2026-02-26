@@ -6,11 +6,6 @@
 - [The Sticker Shop](./tryhackme/The-Sticker-Shop.md)
 
 
-# Eschaton CTF 2026 Quals
-- [Now You See me](./eschaton2026/web/nowyouseeme.md)
-- [Key 1](./eschaton2026/rev/key-1.md)
-- [Intercepted Transmission](./eschaton2026/crypto/Transmission.md)
-
 # Hackerone CTF
 - [Get Started](./hacker101/get-started/readme.md)
 - [Micro CMSv1](./hacker101/Micro-CMSv1/readme.md)
@@ -44,3 +39,4 @@
 
 - [APP SCRIPT](./rootme/APP_Script/readme.md)
   - [Bash - System 1](./rootme/APP_Script/bash-system1.md)
+  - [Python - input()](./rootme/APP_Script/python-input.md)

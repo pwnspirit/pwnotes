@@ -11,7 +11,7 @@ Hii, I'm [pwnspirit](https://github.com/pwnspirit). I am a 18 years old guy from
 
 I'm a Security Researcher(not by profession), I play ctfs and do [Bug Bounty](https://hackerone.com/pwn_). I believe in secure software and FOSS. Here you can find most of my writeups related to [CTFs'](https://ctf.hackthebox.com/user/profile/369283) and my findings. 
 
-#### ``My online links``
+## ``Find me ``
 * [x/@pwnspirit](https://x.com/pwnspirit)
 * [github/@pwnspirit](https://github.com/pwnspirit)
 * [Ko-fi/@pwnspirit](https://ko-fi.com/pwnspirit)
