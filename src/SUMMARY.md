@@ -2,9 +2,6 @@
 
 [~/](./pwn.md)
 
-# TryHackMe
-- [The Sticker Shop](./tryhackme/The-Sticker-Shop.md)
-
 
 # Hackerone CTF
 - [Get Started](./hacker101/get-started/readme.md)
