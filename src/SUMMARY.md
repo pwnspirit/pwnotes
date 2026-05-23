@@ -2,7 +2,9 @@
 
 [~/](./pwn.md)
 
-
+# Hackthebox
+- [Flag Command Challenge](./hackthebox/challenges/flagcommand.md)
+- [Open Secret Challenge](./hackthebox/challenges/OpenSecret.md)
 # Hackerone CTF
 - [Get Started](./hacker101/get-started/readme.md)
 - [Micro CMSv1](./hacker101/Micro-CMSv1/readme.md)
