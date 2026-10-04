@@ -40,3 +40,6 @@
 - [APP SCRIPT](./rootme/APP_Script/readme.md)
   - [Bash - System 1](./rootme/APP_Script/bash-system1.md)
   - [Python - input()](./rootme/APP_Script/python-input.md)
+
+# CVE Playground
+- [Unauthenticated RCE in JCE for Joomla via Profile Import](./cveplayground/cve-2026-48907.md)
