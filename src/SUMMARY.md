@@ -43,3 +43,4 @@
 
 # CVE Playground
 - [Unauthenticated RCE in JCE for Joomla via Profile Import](./cveplayground/cve-2026-48907.md)
+- [Handlebars.js Template Engine RCE via AST Type Confusion in compile() status: published](./cveplayground/CVE-2026-33937.md)
